@@ -1,0 +1,24 @@
+
+img {
+    max-width: 100%;
+}
+
+header{
+    padding: 2rem 3rem;
+    background-color: #07121F;
+}
+header img {
+    width: 100px;
+}
+
+main {
+    background-color: #1C2D3C;
+}
+
+.card {
+    background-color: #07121F;
+}
+
+.card img {
+    width: 70%;
+}
